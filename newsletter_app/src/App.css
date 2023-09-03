@@ -1,0 +1,97 @@
+.container{
+display: flex;
+background-color: #fff;
+border-radius: 20px;
+height: 380px;
+width: 600px;
+margin-left: 300px;
+margin-top: 170px;
+
+
+}
+.newsLetter{
+  width: 200px;
+  background-color: #fff;
+  border-radius: 10%;
+  margin-left: auto;
+   margin-right: 15px;
+  
+
+  
+}
+.main{
+
+background-color: #fff;
+font-size: 35px;
+color:  hsl(234, 29%, 20%);
+font-weight: bold;
+margin-bottom: 20px;
+margin-top: 50px;
+margin-left: 60px;
+
+
+}
+.p1{
+  background-color: #fff;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 60px ;
+
+  
+ 
+}
+.purpose{
+  background-color: #fff;
+  border-radius: 20px;
+
+}
+ul{
+  background-color: #fff;
+  margin-left: 22px;
+
+}
+li{
+  background-color: #fff;
+  background-image: url('C:\Users\rasto\Desktop\newsletter_project\newsletter_app\images\icon-list.svg');
+  padding-left: 30px;
+  margin-top: 5px;
+  list-style-type: none;
+  background-repeat: no-repeat;
+  font-size: 13px;
+  padding-bottom: 6px;
+  
+}
+label{
+  background-color: #fff;
+  font-size: 10px;
+  margin-left: 65px;
+  font-weight: bold;
+  color:  hsl(234, 29%, 20%);
+  margin-right: 80px;
+
+
+}
+input{
+  background-color: #fff;
+  margin-left: 60px;
+  margin-top: 5px;
+  border-width: 1px;
+  border-radius: 6px;
+  padding: 10px;
+  width:260px;
+
+
+
+}
+.bt{
+  background-color: hsl(234, 29%, 20%);
+color: #fff;
+border-radius: 7px;
+height:40px;
+width: 285px;
+font-size: 7px;
+margin-left: 60px;
+margin-top: 15px;
+}
+
+  
